@@ -7,6 +7,14 @@
     "thumbnail": "https://github.com/cutcamdev/cutcam-assets/blob/main/assets/thumbnails/undercut_carsen_thumb.jpeg?raw=true",
     "url": "https://github.com/cutcamdev/cutcam-video/releases/download/v1.0.0/cutcam-undercut-carsen.mov",
     "timestamps": ["01_30", "2_00", "02_25", "05_50", "08_50"]
+  },
+  {
+    "title": "Fade Haircut",
+    "description": "The mid-fade haircut is a stylish and versatile men's hairstyle that strikes a balance between short and long hair lengths. This haircut features a gradual tapering of hair length from the sides and back towards the top, creating a smooth transition between the shorter sides and the longer hair on the upper part of the head. The mid-fade haircut is known for its clean and neat appearance, making it suitable for both formal and casual occasions. It provides a modern and trendy look that can be customized to suit various face shapes and hair textures. This style allows for versatility in styling, as individuals can choose to keep the top longer and styled in various ways, such as a slicked-back look, textured crop, or even a pompadour. Ultimately, the mid-fade haircut combines precision with creativity, making it a popular choice among those seeking a contemporary and polished hairstyle.",
+    "difficulty": "Easy",
+    "thumbnail": "https://github.com/cutcamdev/cutcam-assets/blob/main/assets/thumbnails/fade_carsen_thumb.jpg?raw=true",
+    "url": "https://github.com/cutcamdev/cutcam-video/releases/download/v1.0.0/CC-Fade-Tutorial.mov",
+    "timestamps": ["00_47", "1_22", "01_37", "02_15", "02_43"]
   }
 ]
 }
