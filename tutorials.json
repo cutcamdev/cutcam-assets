@@ -4,7 +4,7 @@
       "title": "CUTCAM Clean + Care",
       "description": "Learn all the CUTCAM Basics of how to use, clean, and maintain your CUTCAM Unit. ",
       "difficulty": "Easy",
-      "thumbnail": "cc_care_thumbnail.jpg",
+      "thumbnail": "https://github.com/cutcamdev/cutcam-assets/blob/main/assets/thumbnails/cc_care_thumbnail.jpg?raw=true",
       "url": "https://github.com/cutcamdev/cutcam-video/releases/download/v1.0.0/CC-Care.mp4",
       "timestamps": ["00_00", "00_08", "00_23", "01_35", "01_58", "02_31", "02_48", "03_05", "04_36", "05:35", "06_17"]
     },
